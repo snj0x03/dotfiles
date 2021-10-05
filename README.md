@@ -1,5 +1,7 @@
 ## Configuration
 
+This is mostly adjusted for my Arch distro and HP laptop.
+
 ### Neovim
 
 The [code editor](https://github.com/neovim/neovim) I will be using for probably the rest of my life.
@@ -19,12 +21,12 @@ I use [it](https://wiki.archlinux.org/title/LightDM) for launching my applicatio
 
 ### polybar
 
-The bn   top of my screen which shows me important information about my system, workspace, time, etc.
+The [bar](https://github.com/polybar/polybar) on top of my screen which shows me important information about my system, workspace, time, etc.
 
 ### ranger
 
-a file manager which allows previewing.
+a [file manager](https://wiki.archlinux.org/title/ranger) which allows previewing.
 
 ### Terminal
 
-The terminal emulator I'm using is called alacritty and the shell script is zsh.
+The terminal emulator I'm using is called [alacritty](https://github.com/alacritty/alacritty) and the shell is [zsh](https://www.zsh.org/).
