@@ -1,6 +1,6 @@
 # Configuration
 
-## Neovim
+### Neovim
 
 The code editor I will be using for probably the rest of my life.
 The language server protocol which are responsible for the autocompletion and autoformatting are made possible by lua.
