@@ -25,7 +25,7 @@ The [bar](https://github.com/polybar/polybar) on top of my screen which shows me
 
 ### ranger
 
-a [file manager](https://wiki.archlinux.org/title/ranger) which allows previewing.
+A [file manager](https://wiki.archlinux.org/title/ranger) which allows previewing.
 
 ### Terminal
 
